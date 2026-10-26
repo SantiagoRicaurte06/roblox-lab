@@ -1,0 +1,16 @@
+# Blender
+*.blend1
+*.blend2
+
+# Rojo / Roblox
+*.rbxl.lock
+*.rbxlx.lock
+sourcemap.json
+
+# Sistema
+Thumbs.db
+desktop.ini
+
+# Claude Code: el enlace a la skill se recrea con `npx skills add` (ver README)
+.claude/skills/
+.claude/settings.local.json

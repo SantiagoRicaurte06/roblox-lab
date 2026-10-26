@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "git-workflow": {
+      "source": "santiagoricaurte06/discord",
+      "sourceType": "github",
+      "skillPath": "skills/git-workflow/SKILL.md",
+      "computedHash": "b73048aa3e831cb24bf027c5a2edf76bfdddb814e0835c9db10eac9ac4b8f8cb"
+    }
+  }
+}
