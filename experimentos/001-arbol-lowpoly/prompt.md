@@ -1,2 +1,9 @@
-# Prompt usado
-[Pega aquí lo que le pediste a Claude, partiendo de prompts/plantillas/modelo-3d.md]
+# Prompts usados
+Copia aquí cada prompt exacto que corriste en Higgsfield, numerado igual que la tabla de intentos.
+
+## Intento 1
+```
+[prompt]
+```
+Negativo: 
+Ajustes: modelo / preset / seed / proporción
