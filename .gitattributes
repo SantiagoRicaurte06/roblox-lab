@@ -4,3 +4,8 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+
+# Scripts y hooks siempre con LF (bash falla con CRLF)
+*.sh text eol=lf
+*.py text eol=lf
+.githooks/* text eol=lf
